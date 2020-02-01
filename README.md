@@ -1,3 +1,3 @@
-# personal_website
+# Personal Web Page
 
-This is a web page made for COMP 307 to introduce myself to the class
+This is a web page made for COMP 307 to introduce myself to the class!
